@@ -1,0 +1,15 @@
+{
+  "name": "run-npm-scripts",
+  "main": "./lib/run-npm-scripts",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/raymond-h/run-npm-scripts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
